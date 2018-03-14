@@ -5,6 +5,14 @@ import java.util.Random;
 import java.util.Scanner;
 import java.util.TreeSet;
 
+/**
+ * Pro/g/ramming Challenges v 3.0 
+ * 006 - Binary Search (integers, strings, etc)
+ * @author Emil.Karpowicz
+ */
+
+
+
 public class Main 
 {
     public static void main(String[] args) 
